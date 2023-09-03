@@ -1,0 +1,10 @@
+/* Set a fixed aspect ratio for the carousel images (16:9) */
+.carousel-inner .carousel-item img {
+    width: 100%;
+    height: 223px;
+}
+
+/* Center the images within the carousel items */
+.carousel-inner .carousel-item img {
+    margin: 0 auto;
+}
